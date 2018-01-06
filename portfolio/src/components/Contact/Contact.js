@@ -13,7 +13,7 @@ const Contact = ()=>{
 
     return (
 
-        <Paper className="contact" style={{width:"100%",minHeight:"730px", borderBottom:"2px solid black", backgroundColor:"#fff"}}>
+        <Paper className="contact" style={{width:"100%",minHeight:"450px", borderBottom:"2px solid black", backgroundColor:"#fff"}}>
             
             <Subheader inset={true} 
             style={{fontSize:"34px",textAlign:"center",fontStyle:"italic",backgroundColor:"#000",color:"#fff",fontWeight:"900", maxHeight:"48px", lineHeight:"48px", verticalAlign:"middle"}}>
