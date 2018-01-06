@@ -1,6 +1,6 @@
 const icons = [
   {
-    src:"/imgs/black(1).png"
+    src:"/imgs/black (1).png"
   },
   {
     src:"/imgs/black.png"
