@@ -1,0 +1,15 @@
+.projectImgs{
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 768px) {
+  .grid{
+    width: 100%;
+    display: block;
+
+  }
+  .projectImgs{
+    margin: auto !important;
+  }
+}
