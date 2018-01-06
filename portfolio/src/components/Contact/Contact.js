@@ -8,6 +8,7 @@ import {default as Social} from 'material-ui/svg-icons/social/public';
 import './Contact.css';
 import BackToTop from '../BackToTop';
 import Links from '../Links';
+import Footer from '../Footer';
 
 const Contact = ()=>{
 
@@ -25,6 +26,7 @@ const Contact = ()=>{
                         <ListItem leftIcon={<Social color="#000" />} primaryText={<Links />} />
                     </List>
             </div>
+            <Footer />
         </Paper>
 
 

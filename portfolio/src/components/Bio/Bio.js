@@ -3,6 +3,7 @@ import Paper from 'material-ui/Paper';
 import Subheader from 'material-ui/Subheader/Subheader';
 import BackToTop from '../BackToTop';
 import './Bio.css'
+import Footer from '../Footer/Footer';
 
 const Bio = ()=>{
   return(
@@ -17,6 +18,7 @@ const Bio = ()=>{
           My major interests include using logic to solve convoluted questions and data manipulation / representation. I am aspiring to become a productive member of the software development community.
           
           </p>
+          
         </div>
         
     </Paper>
